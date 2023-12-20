@@ -1,0 +1,244 @@
+{
+    "caninos": [
+        {
+            "id": 1,
+            "Nombre": "Chester",
+            "edad": "edad 1",
+            "raza": "Golden retriever",
+            "direccion": "direccion 1",
+            "sexo": "hembra",
+            "id_usuario": "2",
+            "personalidades": {
+                "cariñoso": true,
+                "inquieto": false,
+                "jugueton": true
+            },
+            "extra": {
+                "titulo": "titulo 1",
+                "descripcion": "desc 1"
+            },
+            "url": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702609717/reto1/perros/q3joyzrjfcvja7hky4n6.png"
+        },
+        {
+            "id": 3,
+            "Nombre": "Chester",
+            "edad": "edad 2",
+            "raza": "Chihuahua",
+            "direccion": "direccion 2",
+            "sexo": "macho",
+            "id_usuario": "1",
+            "personalidades": {
+                "cariñoso": true,
+                "inquieto": true,
+                "jugueton": true
+            },
+            "extra": {
+                "titulo": "titulo 1",
+                "descripcion": "desc 1"
+            },
+            "url": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702609717/reto1/perros/crogofbyg4r3hznqx6nq.png"
+        },
+        {
+            "id": 2,
+            "Nombre": "Rocky",
+            "edad": "3 Meses",
+            "raza": "Rottweiler",
+            "direccion": "4140 Parker Rd. Allentown, New Mexico 31134",
+            "sexo": "macho",
+            "id_usuario": "3",
+            "personalidades": {
+                "cariñoso": true,
+                "inquieto": false,
+                "jugueton": false
+            },
+            "extra": {
+                "titulo": "Historia de Rocky",
+                "descripcion": "Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada."
+            },
+            "url": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702746464/reto1/perros/t0ri5gkpsikh330jfoj3.jpg"
+        },
+        {
+            "id": 4,
+            "Nombre": "perro 4",
+            "edad": "edad 4",
+            "raza": "Bichón frisé",
+            "direccion": "direccion 4",
+            "sexo": "macho",
+            "id_usuario": "4",
+            "personalidades": {
+                "cariñoso": false,
+                "inquieto": false,
+                "jugueton": true
+            },
+            "extra": {
+                "titulo": "titulo 1",
+                "descripcion": "desc 1"
+            },
+            "url": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702609717/reto1/perros/cveurawpebdfk6mebgui.png"
+        }
+    ],
+    "gatitos": [
+        {
+            "id": 1,
+            "Nombre": "gato 1",
+            "edad": "edad 1",
+            "raza": "gato amarillo",
+            "direccion": "direccion 1",
+            "sexo": "macho",
+            "id_usuario": "4",
+            "personalidades": {
+                "cariñoso": false,
+                "inquieto": false,
+                "jugueton": true
+            },
+            "extra": {
+                "titulo": "titulo 1",
+                "descripcion": "desc 1"
+            },
+            "url": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702609815/reto1/gatos/zk9qvnxrjkt03v5cdswu.png"
+        },
+        {
+            "id": 2,
+            "Nombre": "gato 2",
+            "edad": "edad 2",
+            "raza": "gato negro",
+            "direccion": "direccion 2",
+            "sexo": "macho",
+            "id_usuario": "4",
+            "personalidades": {
+                "cariñoso": false,
+                "inquieto": false,
+                "jugueton": true
+            },
+            "extra": {
+                "titulo": "titulo 1",
+                "descripcion": "desc 1"
+            },
+            "url": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702609815/reto1/gatos/pfb0x6afh2ilwwdzwphv.png"
+        },
+        {
+            "id": 3,
+            "Nombre": "gato 3",
+            "edad": "edad 3",
+            "raza": "gato blanco",
+            "direccion": "direccion 3",
+            "sexo": "macho",
+            "id_usuario": "4",
+            "personalidades": {
+                "cariñoso": false,
+                "inquieto": false,
+                "jugueton": true
+            },
+            "extra": {
+                "titulo": "titulo 1",
+                "descripcion": "desc 1"
+            },
+            "url": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702609814/reto1/gatos/qce1csmq93gzpbjsfxkb.png"
+        },
+        {
+            "id": 4,
+            "Nombre": "gato 4",
+            "edad": "edad 4",
+            "raza": "gato morado",
+            "direccion": "direccion 4",
+            "sexo": "macho",
+            "id_usuario": "4",
+            "personalidades": {
+                "cariñoso": false,
+                "inquieto": false,
+                "jugueton": true
+            },
+            "extra": {
+                "titulo": "titulo 1",
+                "descripcion": "desc 1"
+            },
+            "url": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702609815/reto1/gatos/j4ochchrwcwaunoyzfqn.png"
+        }
+    ],
+    "usuarios": [
+        {
+            "id": "1",
+            "nombre": "Santiago",
+            "apellidos": "Buitrago",
+            "email": "johndoe@example.com",
+            "password": "password123",
+            "telefono": "1234567890",
+            "id_mascotas": "1.'1'|2.'4'",
+            "url_foto_perfil": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702749557/reto1/qtpfaldxggxfcy9o85up.png",
+            "id_mascotas_favoritas_perro":"3|2",
+            "id_mascotas_favoritas_gato":"1|2"
+        },
+        {
+            "id": "2",
+            "nombre": "Jane",
+            "apellidos": "Smith",
+            "email": "janesmith@example.com",
+            "password": "password456",
+            "telefono": "0987654321",
+            "id_mascotas": "",
+            "url_foto_perfil": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702749557/reto1/qtpfaldxggxfcy9o85up.png",
+            "id_mascotas_favoritas_perro":"4|1",
+            "id_mascotas_favoritas_gato":"3|1"
+        },
+        {
+            "id": "3",
+            "nombre": "Robert",
+            "apellidos": "Johnson",
+            "email": "robertjohnson@example.com",
+            "password": "password789",
+            "telefono": "9876543210",
+            "id_mascotas": "",
+            "url_foto_perfil": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702749557/reto1/qtpfaldxggxfcy9o85up.png",
+            "id_mascotas_favoritas_perro":"3|2",
+            "id_mascotas_favoritas_gato":"1|4"
+        },
+        {
+            "id": "4",
+            "nombre": "Emily",
+            "apellidos": "Davis",
+            "email": "emilydavis@example.com",
+            "password": "passwordabc",
+            "telefono": "0123456789",
+            "id_mascotas": "",
+            "url_foto_perfil": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702749557/reto1/qtpfaldxggxfcy9o85up.png",
+            "id_mascotas_favoritas_perro":"2|1",
+            "id_mascotas_favoritas_gato":"2|1"
+        },
+        {
+            "id": "5",
+            "nombre": "Michael",
+            "apellidos": "Brown",
+            "email": "michaelbrown@example.com",
+            "password": "passworddef",
+            "telefono": "6789012345",
+            "id_mascotas": "",
+            "url_foto_perfil": "https://png.pngtree.com/background/20230519/original/pngtree-young-woman-anime-cartoon-drawing-picture-image_2660945.jpg",
+            "id_mascotas_favoritas_perro":"4|2",
+            "id_mascotas_favoritas_gato":"3|1"
+        }
+    ],
+    "chats": [
+        {
+            "id": "1",
+            "integrantes": {
+                "miembro1_id": "1",
+                "miembro2_id": "2"
+            },
+            "mensajes": "1:'Hola como estas',13:23|2:'Bien y tu',13:25|2:'Como te fue en el examen',13:28|1:'Lo mas de bien gracias',13:32"
+        },{
+            "id": "2",
+            "integrantes": {
+                "miembro1_id": "4",
+                "miembro2_id": "3"
+            },
+            "mensajes": "4:'FAIL'|3:'FAIL 2'|3:'FAIL3'|4:'FAIL 4'"
+        },{
+            "id": "3",
+            "integrantes": {
+                "miembro1_id": "1",
+                "miembro2_id": "5"
+            },
+            "mensajes": "1:'CHAT 2',13:10|5:'CHAT 2',13:12|5:'CHAT 2',13:14|1:'CHAT 2',13:15"
+        }
+    ]
+}
