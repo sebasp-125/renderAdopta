@@ -232,7 +232,7 @@
                 "miembro1_id": "4",
                 "miembro2_id": "3"
             },
-            "mensajes": "4:'Hola'|3:'Hola buen dia'|3:'Como estas el dia de hoy?'|4:'Lo mas de bien y tu?'"
+            "mensajes": "4:'Hola',22:10|3:'Hola buen dia',22:15|3:'Como estas el dia de hoy?',22:20|4:'Lo mas de bien y tu?',22:30"
         },
         {
             "id": "3",
