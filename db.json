@@ -2,11 +2,11 @@
     "caninos": [
         {
             "id": 1,
-            "Nombre": "Chester",
-            "edad": "edad 1",
-            "raza": "Golden retriever",
-            "direccion": "direccion 1",
-            "sexo": "hembra",
+            "Nombre": "Biscuit",
+            "edad": "2 años",
+            "raza": "Labrador Retriever",
+            "direccion": "1234 Calle de la Felicidad, Medellín, Colombia",
+            "sexo": "macho",
             "id_usuario": "2",
             "personalidades": {
                 "cariñoso": true,
@@ -14,29 +14,10 @@
                 "jugueton": true
             },
             "extra": {
-                "titulo": "titulo 1",
-                "descripcion": "desc 1"
+                "titulo": "El compañero perfecto",
+                "descripcion": "Biscuit es un perro leal y amigable, siempre listo para jugar a la pelota o para un abrazo."
             },
-            "url": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702609717/reto1/perros/q3joyzrjfcvja7hky4n6.png"
-        },
-        {
-            "id": 3,
-            "Nombre": "Chester",
-            "edad": "edad 2",
-            "raza": "Chihuahua",
-            "direccion": "direccion 2",
-            "sexo": "macho",
-            "id_usuario": "1",
-            "personalidades": {
-                "cariñoso": true,
-                "inquieto": true,
-                "jugueton": true
-            },
-            "extra": {
-                "titulo": "titulo 1",
-                "descripcion": "desc 1"
-            },
-            "url": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702609717/reto1/perros/crogofbyg4r3hznqx6nq.png"
+            "url" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1703263411/reto1/perros/itxnzk6tdusohctxvp2v.jpg"
         },
         {
             "id": 2,
@@ -58,101 +39,120 @@
             "url": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702746464/reto1/perros/t0ri5gkpsikh330jfoj3.jpg"
         },
         {
-            "id": 4,
-            "Nombre": "perro 4",
-            "edad": "edad 4",
-            "raza": "Bichón frisé",
-            "direccion": "direccion 4",
+            "id": 3,
+            "Nombre": "Max",
+            "edad": "3 años",
+            "raza": "Bulldog Francés",
+            "direccion": "9101 Calle de la Luna, Medellín, Colombia",
             "sexo": "macho",
             "id_usuario": "4",
             "personalidades": {
-                "cariñoso": false,
+                "cariñoso": true,
                 "inquieto": false,
+                "jugueton": false
+            },
+            "extra": {
+                "titulo": "El tranquilo",
+                "descripcion": "Max es un perro tranquilo y cariñoso, perfecto para los días de descanso en casa."
+            },
+            "url":"https://res.cloudinary.com/dlwr6vxib/image/upload/v1703263411/reto1/perros/eiejf6dx8vewuklwwtyx.jpg"
+        },
+        {
+            "id": 4,
+            "Nombre": "Bella",
+            "edad": "4 años",
+            "raza": "Yorkshire Terrier",
+            "direccion": "1213 Calle de las Estrellas, Medellín, Colombia",
+            "sexo": "hembra",
+            "id_usuario": "5",
+            "personalidades": {
+                "cariñoso": true,
+                "inquieto": true,
                 "jugueton": true
             },
             "extra": {
-                "titulo": "titulo 1",
-                "descripcion": "desc 1"
+                "titulo": "La alegre",
+                "descripcion": "Bella es una perrita llena de energía y alegría, siempre lista para jugar y divertirse."
             },
-            "url": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702609717/reto1/perros/cveurawpebdfk6mebgui.png"
+            "url" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1703263411/reto1/perros/g3tsiyhctzvg51zudrhh.jpg"
         }
     ],
     "gatitos": [
         {
             "id": 1,
-            "Nombre": "gato 1",
-            "edad": "edad 1",
-            "raza": "gato amarillo",
-            "direccion": "direccion 1",
+            "Nombre": "Whiskers",
+            "edad": "1 año",
+            "raza": "Maine Coon",
+            "direccion": "1234 Calle de la Felicidad, Medellín, Colombia",
             "sexo": "macho",
             "id_usuario": "4",
             "personalidades": {
-                "cariñoso": false,
+                "cariñoso": true,
                 "inquieto": false,
                 "jugueton": true
             },
             "extra": {
-                "titulo": "titulo 1",
-                "descripcion": "desc 1"
+                "titulo": "El gigante gentil",
+                "descripcion": "Whiskers es un gato grande y amigable, siempre listo para una siesta o para jugar con una bola de hilo."
             },
-            "url": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702609815/reto1/gatos/zk9qvnxrjkt03v5cdswu.png"
+            "url" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1703263635/reto1/gatos/cgxpycxrovltimnbkqce.jpg"
         },
         {
             "id": 2,
-            "Nombre": "gato 2",
-            "edad": "edad 2",
-            "raza": "gato negro",
-            "direccion": "direccion 2",
+            "Nombre": "Shadow",
+            "edad": "3 años",
+            "raza": "Bombay",
+            "direccion": "5678 Calle del Sol, Medellín, Colombia",
             "sexo": "macho",
-            "id_usuario": "4",
+            "id_usuario": "5",
             "personalidades": {
-                "cariñoso": false,
-                "inquieto": false,
+                "cariñoso": true,
+                "inquieto": true,
                 "jugueton": true
             },
             "extra": {
-                "titulo": "titulo 1",
-                "descripcion": "desc 1"
+                "titulo": "El misterioso",
+                "descripcion": "Shadow es un gato elegante y misterioso, siempre listo para una aventura nocturna."
             },
-            "url": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702609815/reto1/gatos/pfb0x6afh2ilwwdzwphv.png"
+            "url" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1703263635/reto1/gatos/p3dyyit038sip2hyewhu.jpg"
         },
         {
             "id": 3,
-            "Nombre": "gato 3",
-            "edad": "edad 3",
-            "raza": "gato blanco",
-            "direccion": "direccion 3",
-            "sexo": "macho",
-            "id_usuario": "4",
+            "Nombre": "Snowball",
+            "edad": "2 años",
+            "raza": "Persa",
+            "direccion": "9101 Calle de la Luna, Medellín, Colombia",
+            "sexo": "hembra",
+            "id_usuario": "6",
             "personalidades": {
-                "cariñoso": false,
+                "cariñoso": true,
                 "inquieto": false,
-                "jugueton": true
+                "jugueton": false
             },
             "extra": {
-                "titulo": "titulo 1",
-                "descripcion": "desc 1"
+                "titulo": "La princesa",
+                "descripcion": "Snowball es una gatita tranquila y cariñosa, perfecta para los días de descanso en casa."
             },
-            "url": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702609814/reto1/gatos/qce1csmq93gzpbjsfxkb.png"
+            "url" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1703263636/reto1/gatos/z74hcc1ca34fbo0lxf3c.jpg"
         },
         {
             "id": 4,
-            "Nombre": "gato 4",
-            "edad": "edad 4",
-            "raza": "gato morado",
-            "direccion": "direccion 4",
-            "sexo": "macho",
-            "id_usuario": "4",
+            "Nombre": "Violet",
+            "edad": "4 años",
+            "raza": "Sphynx",
+            "direccion": "1213 Calle de las Estrellas, Medellín, Colombia",
+            "sexo": "hembra",
+            "id_usuario": "7",
             "personalidades": {
-                "cariñoso": false,
-                "inquieto": false,
+                "cariñoso": true,
+                "inquieto": true,
                 "jugueton": true
             },
             "extra": {
-                "titulo": "titulo 1",
-                "descripcion": "desc 1"
+                "titulo": "La única",
+                "descripcion": "Violet es una gatita única y encantadora, siempre lista para jugar y recibir cariño."
             },
-            "url": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702609815/reto1/gatos/j4ochchrwcwaunoyzfqn.png"
+            "url" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1703263636/reto1/gatos/ai3cemv5cteili2s0bal.jpg"
         }
     ],
     "usuarios": [
@@ -164,9 +164,9 @@
             "password": "password123",
             "telefono": "1234567890",
             "id_mascotas": "1.'1'|2.'4'",
-            "url_foto_perfil": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702749557/reto1/qtpfaldxggxfcy9o85up.png",
-            "id_mascotas_favoritas_perro":"3|2",
-            "id_mascotas_favoritas_gato":"1|2"
+            "url_foto_perfil": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Foto_Perfil_.jpg",
+            "id_mascotas_favoritas_perro": "3|2",
+            "id_mascotas_favoritas_gato": "1|2"
         },
         {
             "id": "2",
@@ -177,8 +177,8 @@
             "telefono": "0987654321",
             "id_mascotas": "",
             "url_foto_perfil": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702749557/reto1/qtpfaldxggxfcy9o85up.png",
-            "id_mascotas_favoritas_perro":"4|1",
-            "id_mascotas_favoritas_gato":"3|1"
+            "id_mascotas_favoritas_perro": "4|1",
+            "id_mascotas_favoritas_gato": "3|1"
         },
         {
             "id": "3",
@@ -188,9 +188,9 @@
             "password": "password789",
             "telefono": "9876543210",
             "id_mascotas": "",
-            "url_foto_perfil": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702749557/reto1/qtpfaldxggxfcy9o85up.png",
-            "id_mascotas_favoritas_perro":"3|2",
-            "id_mascotas_favoritas_gato":"1|4"
+            "url_foto_perfil": "https://media.istockphoto.com/id/1437816897/es/foto/mujer-de-negocios-gerente-o-retrato-de-recursos-humanos-para-el-%C3%A9xito-profesional-la-empresa.jpg?s=612x612&w=0&k=20&c=UUQMt4QvYIlD3OUT_Q81nZLTML6vb5X5bwMLjznVNuk=",
+            "id_mascotas_favoritas_perro": "3|2",
+            "id_mascotas_favoritas_gato": "1|4"
         },
         {
             "id": "4",
@@ -200,9 +200,9 @@
             "password": "passwordabc",
             "telefono": "0123456789",
             "id_mascotas": "",
-            "url_foto_perfil": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702749557/reto1/qtpfaldxggxfcy9o85up.png",
-            "id_mascotas_favoritas_perro":"2|1",
-            "id_mascotas_favoritas_gato":"2|1"
+            "url_foto_perfil": "https://www.dzoom.org.es/wp-content/uploads/2020/02/portada-foto-perfil-redes-sociales-consejos.jpg",
+            "id_mascotas_favoritas_perro": "2|1",
+            "id_mascotas_favoritas_gato": "2|1"
         },
         {
             "id": "5",
@@ -213,8 +213,8 @@
             "telefono": "6789012345",
             "id_mascotas": "",
             "url_foto_perfil": "https://png.pngtree.com/background/20230519/original/pngtree-young-woman-anime-cartoon-drawing-picture-image_2660945.jpg",
-            "id_mascotas_favoritas_perro":"4|2",
-            "id_mascotas_favoritas_gato":"3|1"
+            "id_mascotas_favoritas_perro": "4|2",
+            "id_mascotas_favoritas_gato": "3|1"
         }
     ],
     "chats": [
@@ -225,20 +225,22 @@
                 "miembro2_id": "2"
             },
             "mensajes": "1:'Hola como estas',13:23|2:'Bien y tu',13:25|2:'Como te fue en el examen',13:28|1:'Lo mas de bien gracias',13:32"
-        },{
+        },
+        {
             "id": "2",
             "integrantes": {
                 "miembro1_id": "4",
                 "miembro2_id": "3"
             },
-            "mensajes": "4:'FAIL'|3:'FAIL 2'|3:'FAIL3'|4:'FAIL 4'"
-        },{
+            "mensajes": "4:'Hola'|3:'Hola buen dia'|3:'Como estas el dia de hoy?'|4:'Lo mas de bien y tu?'"
+        },
+        {
             "id": "3",
             "integrantes": {
                 "miembro1_id": "1",
                 "miembro2_id": "5"
             },
-            "mensajes": "1:'CHAT 2',13:10|5:'CHAT 2',13:12|5:'CHAT 2',13:14|1:'CHAT 2',13:15"
+            "mensajes": "1:'Donde nos podemos ver?',13:10|5:'Tu elije el lugar yo voy',13:12|5:'Ok veamonos en puerta del norte',13:14|1:'A que horas';14:20"
         }
     ]
 }
