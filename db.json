@@ -123,7 +123,7 @@
             "raza": "Persa",
             "direccion": "9101 Calle de la Luna, Medellín, Colombia",
             "sexo": "hembra",
-            "id_usuario": "6",
+            "id_usuario": "3",
             "personalidades": {
                 "cariñoso": true,
                 "inquieto": false,
@@ -142,7 +142,7 @@
             "raza": "Sphynx",
             "direccion": "1213 Calle de las Estrellas, Medellín, Colombia",
             "sexo": "hembra",
-            "id_usuario": "7",
+            "id_usuario": "2",
             "personalidades": {
                 "cariñoso": true,
                 "inquieto": true,
