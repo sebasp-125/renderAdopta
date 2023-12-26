@@ -75,64 +75,7 @@
                 "descripcion": "Bella es una perrita llena de energía y alegría, siempre lista para jugar y divertirse."
             },
             "url" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1703263411/reto1/perros/g3tsiyhctzvg51zudrhh.jpg"
-        },
-        {
-        "id": 5,
-        "Nombre": "Pepa",
-        "edad": "12 años",
-        "raza": "Beagle",
-        "direccion": "1213 Calle de las Estrellas, Medellín, Colombia",
-        "sexo": "macho",
-        "id_usuario": "5",
-        "personalidades": {
-            "cariñoso": false,
-            "inquieto": true,
-            "jugueton": true
-        },
-        "extra": {
-            "titulo": "El alegre",
-            "descripcion": "Max es un perro lleno de energía y alegría, siempre listo para jugar y divertirse."
-        },
-        "url": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1703565194/reto1/perros/rkvjh5nxrebowi8chisb.jpg"
-    },
-    {
-        "id": 6,
-        "Nombre": "Luna",
-        "edad": "2 años",
-        "raza": "Boxer",
-        "direccion": "1213 Calle de las Estrellas, Medellín, Colombia",
-        "sexo": "hembra",
-        "id_usuario": "5",
-        "personalidades": {
-            "cariñoso": true,
-            "inquieto": true,
-            "jugueton": true
-        },
-        "extra": {
-            "titulo": "La juguetona",
-            "descripcion": "Luna es una perrita llena de vitalidad y siempre lista para jugar con entusiasmo."
-        },
-        "url": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1703565193/reto1/perros/mh3brppdp4zw5kigptjl.jpg"
-    },
-    {
-        "id": 7,
-        "Nombre": "Otro perro",
-        "edad": "6 años",
-        "raza": "Labrador",
-        "direccion": "1213 Calle de las Estrellas, Medellín, Colombia",
-        "sexo": "macho",
-        "id_usuario": "5",
-        "personalidades": {
-            "cariñoso": true,
-            "inquieto": false,
-            "jugueton": true
-        },
-        "extra": {
-            "titulo": "El enérgico",
-            "descripcion": "Rocky es un perro lleno de vitalidad y siempre está listo para salir a correr y jugar."
-        },
-        "url": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1703565194/reto1/perros/o5wirzalxvj3ysa2dkuh.jpg"
-    }
+        }
     ],
     "gatitos": [
         {
