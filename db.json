@@ -1,246 +1,116 @@
 {
-    "caninos": [
+    "perros" : [
         {
             "id": 1,
-            "Nombre": "Biscuit",
-            "edad": "2 años",
-            "raza": "Labrador Retriever",
-            "direccion": "1234 Calle de la Felicidad, Medellín, Colombia",
-            "sexo": "macho",
-            "id_usuario": "2",
-            "personalidades": {
-                "cariñoso": true,
-                "inquieto": false,
-                "jugueton": true
-            },
-            "extra": {
-                "titulo": "El compañero perfecto",
-                "descripcion": "Biscuit es un perro leal y amigable, siempre listo para jugar a la pelota o para un abrazo."
-            },
-            "url" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1703263411/reto1/perros/itxnzk6tdusohctxvp2v.jpg"
+            "nombre": "Chester",
+            "edad": "",
+            "raza": "Golden retriever",
+            "descripcion": "",
+            "dirreccion": "",
+            "personalidad": "",
+            "url" : "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1702604538/Adopcion/perros/Card_nim8c0.png"
         },
+
         {
             "id": 2,
-            "Nombre": "Rocky",
+            "nombre": "Papi",
+            "edad": "",
+            "raza": "Chihuahua",
+            "descripcion": "",
+            "dirreccion": "",
+            "personalidad": "",
+            "url" : "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1702604534/Adopcion/perros/Card_1_p6kh4f.png"
+            
+            
+        },
+
+        {
+            "id": 3,
+            "nombre": "Rocky",
             "edad": "3 Meses",
             "raza": "Rottweiler",
-            "direccion": "4140 Parker Rd. Allentown, New Mexico 31134",
-            "sexo": "macho",
-            "id_usuario": "3",
-            "personalidades": {
-                "cariñoso": true,
-                "inquieto": false,
-                "jugueton": false
-            },
-            "extra": {
-                "titulo": "Historia de Rocky",
-                "descripcion": "Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada."
-            },
-            "url": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702746464/reto1/perros/t0ri5gkpsikh330jfoj3.jpg"
-        },
+            "descripcion": "Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada.",
+            "dirreccion": "4140 Parker Rd. Allentown, New Mexico 31134",
+            "personalidad": "",
+            "url" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702609717/reto1/perros/mibzgeidixyia7wuz4xa.png"
+        }, 
+
         {
-            "id": 3,
-            "Nombre": "Max",
-            "edad": "3 años",
-            "raza": "Bulldog Francés",
-            "direccion": "9101 Calle de la Luna, Medellín, Colombia",
-            "sexo": "macho",
-            "id_usuario": "4",
-            "personalidades": {
-                "cariñoso": true,
-                "inquieto": false,
-                "jugueton": false
-            },
-            "extra": {
-                "titulo": "El tranquilo",
-                "descripcion": "Max es un perro tranquilo y cariñoso, perfecto para los días de descanso en casa."
-            },
-            "url":"https://res.cloudinary.com/dlwr6vxib/image/upload/v1703263411/reto1/perros/eiejf6dx8vewuklwwtyx.jpg"
-        },
-        {
-            "id": 4,
-            "Nombre": "Bella",
-            "edad": "4 años",
-            "raza": "Yorkshire Terrier",
-            "direccion": "1213 Calle de las Estrellas, Medellín, Colombia",
-            "sexo": "hembra",
-            "id_usuario": "5",
-            "personalidades": {
-                "cariñoso": true,
-                "inquieto": true,
-                "jugueton": true
-            },
-            "extra": {
-                "titulo": "La alegre",
-                "descripcion": "Bella es una perrita llena de energía y alegría, siempre lista para jugar y divertirse."
-            },
-            "url" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1703263411/reto1/perros/g3tsiyhctzvg51zudrhh.jpg"
-        }
-    ],
-    "gatitos": [
+            "id" : 4,
+            "nombre": "Pelusa",
+            "edad": "",
+            "raza": "Bichón frisé",
+            "descripcion": "",
+            "dirreccion": "",
+            "personalidad": "",
+            "url" : "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1702604537/Adopcion/perros/Card_3_o3rwzg.png"
+        } 
+
+    ] ,
+
+    "gatos" : [
         {
             "id": 1,
-            "Nombre": "Whiskers",
-            "edad": "1 año",
-            "raza": "Maine Coon",
-            "direccion": "1234 Calle de la Felicidad, Medellín, Colombia",
-            "sexo": "macho",
-            "id_usuario": "4",
-            "personalidades": {
-                "cariñoso": true,
-                "inquieto": false,
-                "jugueton": true
-            },
-            "extra": {
-                "titulo": "El gigante gentil",
-                "descripcion": "Whiskers es un gato grande y amigable, siempre listo para una siesta o para jugar con una bola de hilo."
-            },
-            "url" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1703263635/reto1/gatos/cgxpycxrovltimnbkqce.jpg"
+            "nombre": "Matilde",
+            "edad": "6 meses",
+            "raza": "British Shorthair",
+            "descripcion": "Matilde es la mejor guarda espaldas, siempre esta hay para conversar y recibirá cada día con un fuerte cariño. Fue rescatada y busco una persona que le pueda dar todo el amor que ella necesita.",
+            "dirreccion": "4140 Parker Rd. Allentown, New Mexico 31134",
+            "personalidad": "",
+            "url" : "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1702604449/Adopcion/gatos/Card_tdvgcy.png"
+        },
+
+        {
+            "id": 2,
+            "nombre": "Pelusa",
+            "edad": "",
+            "raza": "Birmano",
+            "descripcion": "",
+            "dirreccion": "",
+            "personalidad": "",
+            "url" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702609815/reto1/gatos/pfb0x6afh2ilwwdzwphv.png"
+        }, 
+        {
+            "id": 3,
+            "nombre": "Kity",
+            "edad": "",
+            "raza": "Bombay",
+            "descripcion": "",
+            "dirreccion": "",
+            "personalidad": "",
+            "url" : "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1702604448/Adopcion/gatos/Card_3_l49ixu.png"
+        }, 
+        {
+            "id": 4,
+            "nombre": "Bombón",
+            "edad": "",
+            "raza": "Gato americano",
+            "descripcion": "",
+            "dirreccion": "",
+            "personalidad": "",
+            "url" : "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1702604447/Adopcion/gatos/Card_2_tspyol.png"
+        }
+    ],
+
+
+
+    "registro": [
+        {
+            "id" : 1,
+            "nombre": "",
+            "apellido": "" ,
+            "correo": ""
         },
         {
             "id": 2,
-            "Nombre": "Shadow",
-            "edad": "3 años",
-            "raza": "Bombay",
-            "direccion": "5678 Calle del Sol, Medellín, Colombia",
-            "sexo": "macho",
-            "id_usuario": "5",
-            "personalidades": {
-                "cariñoso": true,
-                "inquieto": true,
-                "jugueton": true
-            },
-            "extra": {
-                "titulo": "El misterioso",
-                "descripcion": "Shadow es un gato elegante y misterioso, siempre listo para una aventura nocturna."
-            },
-            "url" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1703263635/reto1/gatos/p3dyyit038sip2hyewhu.jpg"
-        },
-        {
-            "id": 3,
-            "Nombre": "Snowball",
-            "edad": "2 años",
-            "raza": "Persa",
-            "direccion": "9101 Calle de la Luna, Medellín, Colombia",
-            "sexo": "hembra",
-            "id_usuario": "3",
-            "personalidades": {
-                "cariñoso": true,
-                "inquieto": false,
-                "jugueton": false
-            },
-            "extra": {
-                "titulo": "La princesa",
-                "descripcion": "Snowball es una gatita tranquila y cariñosa, perfecta para los días de descanso en casa."
-            },
-            "url" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1703263636/reto1/gatos/z74hcc1ca34fbo0lxf3c.jpg"
-        },
-        {
-            "id": 4,
-            "Nombre": "Violet",
-            "edad": "4 años",
-            "raza": "Sphynx",
-            "direccion": "1213 Calle de las Estrellas, Medellín, Colombia",
-            "sexo": "hembra",
-            "id_usuario": "2",
-            "personalidades": {
-                "cariñoso": true,
-                "inquieto": true,
-                "jugueton": true
-            },
-            "extra": {
-                "titulo": "La única",
-                "descripcion": "Violet es una gatita única y encantadora, siempre lista para jugar y recibir cariño."
-            },
-            "url" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1703263636/reto1/gatos/ai3cemv5cteili2s0bal.jpg"
-        }
-    ],
-    "usuarios": [
-        {
-            "id": "1",
-            "nombre": "Santiago",
-            "apellidos": "Buitrago",
-            "email": "johndoe@example.com",
-            "password": "password123",
-            "telefono": "1234567890",
-            "id_mascotas": "1.'1'|2.'4'",
-            "url_foto_perfil": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Foto_Perfil_.jpg",
-            "id_mascotas_favoritas_perro": "3|2",
-            "id_mascotas_favoritas_gato": "1|2"
-        },
-        {
-            "id": "2",
-            "nombre": "Jane",
-            "apellidos": "Smith",
-            "email": "janesmith@example.com",
-            "password": "password456",
-            "telefono": "0987654321",
-            "id_mascotas": "",
-            "url_foto_perfil": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702749557/reto1/qtpfaldxggxfcy9o85up.png",
-            "id_mascotas_favoritas_perro": "4|1",
-            "id_mascotas_favoritas_gato": "3|1"
-        },
-        {
-            "id": "3",
-            "nombre": "Robert",
-            "apellidos": "Johnson",
-            "email": "robertjohnson@example.com",
-            "password": "password789",
-            "telefono": "9876543210",
-            "id_mascotas": "",
-            "url_foto_perfil": "https://media.istockphoto.com/id/1437816897/es/foto/mujer-de-negocios-gerente-o-retrato-de-recursos-humanos-para-el-%C3%A9xito-profesional-la-empresa.jpg?s=612x612&w=0&k=20&c=UUQMt4QvYIlD3OUT_Q81nZLTML6vb5X5bwMLjznVNuk=",
-            "id_mascotas_favoritas_perro": "3|2",
-            "id_mascotas_favoritas_gato": "1|4"
-        },
-        {
-            "id": "4",
-            "nombre": "Emily",
-            "apellidos": "Davis",
-            "email": "emilydavis@example.com",
-            "password": "passwordabc",
-            "telefono": "0123456789",
-            "id_mascotas": "",
-            "url_foto_perfil": "https://www.dzoom.org.es/wp-content/uploads/2020/02/portada-foto-perfil-redes-sociales-consejos.jpg",
-            "id_mascotas_favoritas_perro": "2|1",
-            "id_mascotas_favoritas_gato": "2|1"
-        },
-        {
-            "id": "5",
-            "nombre": "Michael",
-            "apellidos": "Brown",
-            "email": "michaelbrown@example.com",
-            "password": "passworddef",
-            "telefono": "6789012345",
-            "id_mascotas": "",
-            "url_foto_perfil": "https://png.pngtree.com/background/20230519/original/pngtree-young-woman-anime-cartoon-drawing-picture-image_2660945.jpg",
-            "id_mascotas_favoritas_perro": "4|2",
-            "id_mascotas_favoritas_gato": "3|1"
-        }
-    ],
-    "chats": [
-        {
-            "id": "1",
-            "integrantes": {
-                "miembro1_id": "1",
-                "miembro2_id": "2"
-            },
-            "mensajes": "1:'Hola como estas',13:23|2:'Bien y tu',13:25|2:'Como te fue en el examen',13:28|1:'Lo mas de bien gracias',13:32"
-        },
-        {
-            "id": "2",
-            "integrantes": {
-                "miembro1_id": "4",
-                "miembro2_id": "3"
-            },
-            "mensajes": "4:'Hola',22:10|3:'Hola buen dia',22:15|3:'Como estas el dia de hoy?',22:20|4:'Lo mas de bien y tu?',22:30"
-        },
-        {
-            "id": "3",
-            "integrantes": {
-                "miembro1_id": "1",
-                "miembro2_id": "5"
-            },
-            "mensajes": "1:'Donde nos podemos ver?',13:10|5:'Tu elije el lugar yo voy',13:12|5:'Ok veamonos en puerta del norte',13:14|1:'A que horas',14:20"
+            "nombre_u" : "Juan",
+            "apellido_u" : "Méndez",
+            "correo_u" :"juan.mendez@gmail.com"
         }
     ]
+
+
 }
+
+
+  
